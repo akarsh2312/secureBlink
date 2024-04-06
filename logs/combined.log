@@ -1,0 +1,6 @@
+{"level":"info","message":"Authenticating user: khandelwalakarsh8@gmail.com","timestamp":"2024-04-06 10:10:15"}
+{"level":"info","message":"Password reset for user: test@test.test","timestamp":"2024-04-06 10:12:18"}
+{"level":"info","message":"Authenticating user: test@test.test1","timestamp":"2024-04-06 19:10:15"}
+{"level":"info","message":"Authorizing user test@test.test1 to access","timestamp":"2024-04-06 11:11:11"}
+{"level":"info","message":"Password reset for user: test@test.test1","timestamp":"2024-04-06 19:10:15"}
+{"level":"info","message":"Password reset for user: test@test.test1","timestamp":"2024-04-06 19:13:12"}
